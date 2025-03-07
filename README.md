@@ -4,47 +4,59 @@
 </div>
 
 ## Objetivo
-&nbsp;&nbsp;&nbsp;&nbsp;O objetivo desta trilha é te capacitar para entrar no mercado de infraestruturas/redes, saindo do completo zero em infraestrutura de TI e alcançar a habilidade de:
+&nbsp;&nbsp;&nbsp;&nbsp;O objetivo desta trilha é te capacitar para entrar no mercado de dados, saindo do completo zero e alcançando a habilidade de:
 
-→ **Configurar e administrar servidores e redes**;  
-→ **Gerenciar ativos de TI e garantir a disponibilidade dos serviços**;  
-→ **Implementar boas práticas de segurança e automação.**  
+→ **Coletar, organizar e analisar dados para gerar insights valiosos**;  
+→ **Manipular grandes volumes de dados e construir dashboards interativos**;  
+→ **Utilizar métodos estatísticos e machine learning para tomada de decisão**  
 
-## Perfil de um Profissional de Infraestrutura
-&nbsp;&nbsp;&nbsp;&nbsp;Quem trabalha com infraestrutura de TI precisa ter um perfil analítico, organizado e resiliente, já que lida diretamente com disponibilidade, desempenho e segurança dos sistemas. Além disso, a capacidade de resolver problemas sob pressão é essencial.
-Infraestrutura lida com a parte física e virtual de diversos equipamentos. Muitas vezes, o profissional da área precisa ter alta disponibilidade para verificar presencialmente os equipamentos, especialmente em situações de emergência, que podem ocorrer mesmo fora do horário comercial. Além disso, alterações no ambiente são geralmente realizadas após o expediente para evitar impactos nas operações da empresa.
+## Perfil de um Profissional de Dados
+&nbsp;&nbsp;&nbsp;&nbsp;Quem trabalha com dados precisa ter um perfil analítico, curioso e organizado, pois lida diretamente com a transformação de informações brutas em conhecimento. A capacidade de resolver problemas complexos e tomar decisões baseadas em evidências é essencial.
+O profissional de dados deve estar atualizado com novas tecnologias e frameworks, além de ter um olhar crítico para identificar padrões e anomalias nos dados.
   
   Principais Características:
 
-- **Pensamento Analítico:** Diagnostica falhas rapidamente e toma decisões assertivas.  
+- **Pensamento Analítico:** Capacidade de identificar padrões e tomar decisões baseadas em dados. 
 - **Disponibilidade:** Alta, podendo ser necessário atuar fora do horário comercial.  
-- **Resiliência:** Lida com pressão, incidentes e emergências sem perder o controle.  
-- **Atenção aos Detalhes:** Pequenos erros podem causar grandes problemas na infraestrutura.  
-- **Organização:** Mantém documentação, configurações e processos bem estruturados.  
-- **Trabalho em Equipe:** Atua em conjunto com times de segurança, redes, desenvolvimento e suporte.  
-- **Senso de Urgência:** Resolve incidentes rapidamente para evitar downtime.  
-- **Foco em Automação:** Busca otimizar processos repetitivos para ganhar eficiência.
+- **Curiosidade:** Investiga problemas e busca soluções inovadoras.
+- **Atenção aos Detalhes:**  Pequenos erros podem comprometer análises e modelos preditivos.
+- **Organização:** Mantém dados estruturados e documentação bem definida.  
+- **Trabalho em Equipe:** Atua junto a times de negócios, TI e engenharia de software.  
+- **Comunicação Eficiente:** Consegue traduzir dados complexos em informações acessíveis. 
+- **Foco em Automação:** Utiliza scripts para otimizar o processamento.
 
-## Habilidades Técnicas Importantes:
-- **Sistemas Operacionais:** Administração de **Linux** e **Windows Server**  
-- **Redes:** Configuração de **VLANs, VPNs, firewalls e roteadores**  
-- **Servidores:** Gerenciamento de **Active Directory, DNS, DHCP**  
-- **Cloud Computing:** Experiência com **AWS, Azure, GCP**  
-- **Virtualização:** Uso de **VMware, Hyper-V, Proxmox**  
-- **Monitoramento:** Ferramentas como **Zabbix, Prometheus, Grafana**  
-- **Automação:** Scripts em **PowerShell, Bash, Python, Ansible**  
-- **Contêineres:** Uso de **Docker e Kubernetes**  
+## Habilidades Técnicas Importantes  
+### Linguagens de Programação  
+- **Python**  
+- **SQL**  
+###  Banco de Dados  
+- **Relacional:** MySQL, PostgreSQL  
+- **NoSQL:** MongoDB, BigQuery  
+###  Análise de Dados e Visualização  
+- **Bibliotecas Python:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Dashboards:** Power BI, Tableau, Looker   
+###  Machine Learning e Big Data  
+- **ML:** Scikit-learn, TensorFlow, PyTorch  
+- **Big Data:** Spark, Hadoop, Databricks  
+###  Cloud Computing  
+- AWS  
+- Azure  
+- GCP  
+###  Automação e Scripts  
+- Python  
+- Shell Script  
+- SQL  
 
 ## Áreas principais:
-- **Analista de Infraestrutura**  
-- **Cabeamento**  
-- **NOC**  
-- **Administrador de Servidores**  
-- **Virtualização**  
-- **Administrador de Redes**  
+- **Analista de Dados**  
+- **Cientista de Dados**  
+- **Engenheiro de Dados**  
+- **Engenheiro de Machine Learning**  
+- **BI Analyst**  
+- **Data Engineer**  
 - **DevOps**  
-- **Infraestrutura em Nuvem**  
-- **Network Engineer**  
+- **Especialista em Big Data**  
+- **Arquitetura de Dados*  
 
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
