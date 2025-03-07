@@ -27,25 +27,25 @@ O profissional de dados deve estar atualizado com novas tecnologias e frameworks
 
 ## Habilidades Técnicas Importantes  
 ### Linguagens de Programação  
-- **Python**  
-- **SQL**  
+→  **Python**  
+→  **SQL**  
 ###  Banco de Dados  
-- **Relacional:** MySQL, PostgreSQL  
-- **NoSQL:** MongoDB, BigQuery  
+→  **Relacional:** MySQL, PostgreSQL  
+→  **NoSQL:** MongoDB, BigQuery  
 ###  Análise de Dados e Visualização  
-- **Bibliotecas Python:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Dashboards:** Power BI, Tableau, Looker   
+→  **Bibliotecas Python:** Pandas, NumPy, Matplotlib, Seaborn  
+→  **Dashboards:** Power BI, Tableau, Looker   
 ###  Machine Learning e Big Data  
-- **ML:** Scikit-learn, TensorFlow, PyTorch  
-- **Big Data:** Spark, Hadoop, Databricks  
+→  **ML:** Scikit-learn, TensorFlow, PyTorch  
+→  **Big Data:** Spark, Hadoop, Databricks  
 ###  Cloud Computing  
-- AWS  
-- Azure  
-- GCP  
+→  AWS  
+→  Azure  
+→  GCP  
 ###  Automação e Scripts  
-- Python  
-- Shell Script  
-- SQL  
+→  Python  
+→  Shell Script  
+→  SQL  
 
 ## Áreas principais:
 - **Analista de Dados**  
