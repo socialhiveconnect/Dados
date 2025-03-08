@@ -29,7 +29,7 @@ O profissional de dados deve estar atualizado com novas tecnologias e frameworks
 ## Habilidades Técnicas Importantes
 ###  Dataviz 
 →  Excel 
-→  Locker 
+→  Locker
 →  PowerBI  
 →  Tableau
 ### Linguagens de Programação  
