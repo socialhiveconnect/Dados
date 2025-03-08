@@ -26,7 +26,12 @@ O profissional de dados deve estar atualizado com novas tecnologias e frameworks
 - **Comunicação Eficiente:** Consegue traduzir dados complexos em informações acessíveis. 
 - **Foco em Automação:** Utiliza scripts para otimizar o processamento.
 
-## Habilidades Técnicas Importantes  
+## Habilidades Técnicas Importantes
+###  Dataviz 
+→  Excel 
+→  Locker 
+→  PowerBI  
+→  Tableau
 ### Linguagens de Programação  
 →  **Python**  
 →  **SQL**  
@@ -43,21 +48,28 @@ O profissional de dados deve estar atualizado com novas tecnologias e frameworks
 →  AWS  
 →  Azure  
 →  GCP  
-###  Automação e Scripts  
-→  Python  
-→  Shell Script  
-→  SQL  
+
 
 ## Áreas principais:
 - **Analista de Dados**  
-- **Cientista de Dados**  
-- **Engenheiro de Dados**  
+- **DBA**  
+- **Analista de Engenharia de Dados**  
 - **Engenheiro de Machine Learning**  
-- **BI Analyst**  
-- **Data Engineer**  
-- **DevOps**  
-- **Especialista em Big Data**  
-- **Arquitetura de Dados*  
+- **Engenheiro de dados em Nuvem**  
+- **Cientista de dados**  
+
+## Título para LinkedIn:
+
+Análise de Dados | SQL | Power BI | Python para Dados | Estatística | Certificação DA-100 em andamento
+<br>
+Engenharia de Dados | Big Data | ETL | Apache Spark | Cloud Computing | AWS Certified Data Analytics | Certificação DP-203 em andamento
+<br>
+BI & Data Visualization | Tableau | Power BI | SQL | Dashboards Estratégicos | Certificação Tableau Desktop Specialist | DA-100
+<br>
+Arquitetura de Dados | Data Lakes | Cloud Computing | Azure Data Engineer | Modelagem de Dados | Certificação DP-900 | AWS Solutions Architect
+<br>
+
+- **Esses são apenas alguns exemplos. Você pode criar o seu título personalizado seguindo a mesma estrutura: escolha a área que deseja atuar, destaque uma especialização dentro dessa área, inclua uma ferramenta importante relacionada e mencione uma certificação que está em processo de obtenção. Essa abordagem é chave para o sucesso.**
 
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
