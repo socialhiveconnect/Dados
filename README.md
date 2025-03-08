@@ -60,13 +60,13 @@ O profissional de dados deve estar atualizado com novas tecnologias e frameworks
 
 ## Título para LinkedIn:
 
-Análise de Dados | SQL | Power BI | Python para Dados | Estatística | Certificação DA-100 em andamento
+**Análise de Dados | SQL | Power BI | Python para Dados | Estatística | Certificação DA-100 em andamento**
 <br>
-Engenharia de Dados | Big Data | ETL | Apache Spark | Cloud Computing | AWS Certified Data Analytics | Certificação DP-203 em andamento
+**Engenharia de Dados | Big Data | ETL | Apache Spark | Cloud Computing | AWS Certified Data Analytics | Certificação DP-203 em andamento**
 <br>
-BI & Data Visualization | Tableau | Power BI | SQL | Dashboards Estratégicos | Certificação Tableau Desktop Specialist | DA-100
+**BI & Data Visualization | Tableau | Power BI | SQL | Dashboards Estratégicos | Certificação Tableau Desktop Specialist | DA-100**
 <br>
-Arquitetura de Dados | Data Lakes | Cloud Computing | Azure Data Engineer | Modelagem de Dados | Certificação DP-900 | AWS Solutions Architect
+**Arquitetura de Dados | Data Lakes | Cloud Computing | Azure Data Engineer | Modelagem de Dados | Certificação DP-900 | AWS Solutions Architect**
 <br>
 
 - **Esses são apenas alguns exemplos. Você pode criar o seu título personalizado seguindo a mesma estrutura: escolha a área que deseja atuar, destaque uma especialização dentro dessa área, inclua uma ferramenta importante relacionada e mencione uma certificação que está em processo de obtenção. Essa abordagem é chave para o sucesso.**
