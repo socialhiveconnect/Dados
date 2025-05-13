@@ -1,6 +1,6 @@
 <h1 align="center">HIVE.CONNECT</h1>
 <div align="center">
-  <img src="dados.png" alt="Git" width="120px" />
+  <img src="data.png" alt="Git" width="120px" />
   <h1 align="center">Dados</h1>
 </div>
 
